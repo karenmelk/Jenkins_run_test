@@ -1,4 +1,7 @@
 def test_1():
-    pass
+    assert True
 def test_2():
-    pass
+    assert False
+
+def sovorakan():
+    print("Hello world")
